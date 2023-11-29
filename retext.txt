@@ -1,0 +1,39 @@
+Este es un texto variado con múltiples tipos de datos para practicar expresiones regulares:
+
+Conoce tu futura universidad junto a tus familiares y amigos
+disfruta esta gran experiencia molinera en la mejor universidad del Perú en Ciencias Agrícolas.
+
+Más información: https://admision.lamolina.edu.pe/talleres
+Informes WhatsApp: 937413951 / 978585632
+
+Direcciones de correo electrónico:
+usuario1@example.com, correo.123@dominio.co, correo@empresa.org,
+otrocorreo@email.com, usuario_sin_arroba.com, correo_erroneo@.com,
+email_valido@subdominio.net, direccion@dominio.com.mx,
+correo@dominio.invalido, correo_con_simbolos@dominio.co.uk,
+correo123@email.com, ejemplodecorreo@gmail.com
+
+Números de teléfono sin guión:
+943854789, 945384284, 934857643, 943284768, 953287366
+
+Números de teléfono con guión:
+ 
+
+URLs:
+https://www.facebook.com, http://youtube.com, https://discord.com/
+https://chat.openai.com/, https://visualstudio.microsoft.com/es/
+https://open.spotify.com/intl-es
+
+Fechas:
+15/03/2023, 2023-06-30, 07-10-22, 10/11/21, 2022/12/31
+
+Datos estructurados:
+Nombre: Juan Pérez
+Edad: 35
+Ciudad: Ciudad de México
+Ocupación: Ingeniero de Software
+
+Nombre: María García
+Edad: 28
+Ciudad: Madrid
+Ocupación: Diseñadora Gráfica
