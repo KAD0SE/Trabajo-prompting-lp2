@@ -37,3 +37,8 @@ Nombre: María García
 Edad: 28
 Ciudad: Madrid
 Ocupación: Diseñadora Gráfica
+
+Nombre: Ana Armas
+Edad: 33
+Ciudad: Cuba
+Ocupación: Ingeniera de sistemas
