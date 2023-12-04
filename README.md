@@ -1,5 +1,5 @@
 # Trabajo-prompting-lp2
 # Integrantes:
-# -Rodrigo Mendoza Ortiz
-# -Jeferson Chalas Montes
-# -Enrique Andres Zevallos
+# -Rodrigo Mendoza Ortiz (KAD0SE)
+# -Jeferson Chalas Montes (booimjeF)
+# -Enrique Andres Zevallos (combustible15)
